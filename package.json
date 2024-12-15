@@ -1,0 +1,14 @@
+{
+  "engine":{
+    "node":"20.18.0"
+  },
+  "name": "spotifyclone",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Bharti",
+  "license": "ISC",
+  "description": "My music player"
+}
